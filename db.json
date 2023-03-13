@@ -1,10 +1,10 @@
 {
   "products": [{
-      "id": 1,
-      "name": "Red T-Shirt",
+      "id": 111,
+      "name": "Orange T-Shirt",
       "description": "A comfortable and stylish red t-shirt.",
-      "price": 19.99,
-      "quantity": 10,
+      "price": 99.99,
+      "quantity": 100,
       "image": "/images/1.jpg"
     },
     {
